@@ -1,0 +1,18 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    background-color: rgb(228, 56, 56);
+}
+
+#app {
+    text-align: center;
+    color: white;
+}
+
+img{
+    width: 500px;
+    box-shadow: 1px 1px 5px black;
+}
